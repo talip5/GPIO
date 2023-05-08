@@ -1,0 +1,4 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	2
+core_cm0.h:730:22:__NVIC_SetPriority	2
+exti.c:10:6:input_init	1
+exti.c:23:6:exti_init	1
